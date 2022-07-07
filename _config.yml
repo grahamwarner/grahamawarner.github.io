@@ -1,3 +1,4 @@
 remote_theme: pages-themes/minimal@v0.2.0
-title: My Test Blog
-description: Testing to see if this is better than Wordpress
+title: Graham Warner
+# logo: /images/grahamwarner.jpg
+description: A site for my data science portfolio projects
